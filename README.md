@@ -1,2 +1,3 @@
 # Ai_study
  Ai_study
+pytorch, keras, tensorflow, etc...
