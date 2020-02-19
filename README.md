@@ -1,7 +1,8 @@
 # Ai_study
  Ai_study
 
-Tensorflow_study - tensorflow tutorial, study
+### Tensorflow_study 
+- tensorflow tutorial, study
 
 ### ResNet 
 - create block, design the network by own
