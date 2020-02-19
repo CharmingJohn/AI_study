@@ -9,4 +9,6 @@ pytorch by sung kim - from zero to all. Linear regression -> RNN
 
 Object detection - yolo v3, vgg16, ssd
 
+ASW AI/ML Service, Webinar
+
 more and more
