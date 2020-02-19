@@ -3,12 +3,17 @@
 
 Tensorflow_study - tensorflow tutorial, study
 
-ResNet - create block, design the network by own
+### ResNet 
+- create block, design the network by own
 
-pytorch by sung kim - from zero to all. Linear regression -> RNN
+### pytorch by sung kim - 
+from zero to all. Linear regression -> RNN
 
-Object detection - yolo v3, vgg16, ssd
+### Object detection - 
+yolo v3, vgg16, ssd
 
-ASW AI/ML Service, Webinar
+### AWS AI/ML Service 
 
-more and more
+Webinar
+
+> more and more
